@@ -1,7 +1,6 @@
 === Export Page Plugin ===
-Contributors: lalit1231 
+Contributors: SachinPatel
 Tags: html, static website generator, static page, secure, fast 
-Donate link: http://www.anysoftsolutions.com/
 Requires at least: 3.0.1
 Tested up to: 5.3
 Stable tag: 4.3
